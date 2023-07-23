@@ -1,0 +1,7 @@
+.ext {
+  cursor: pointer;
+}
+
+.ext.active {
+  background-color: var(--mantine-color-teal-0);
+}
