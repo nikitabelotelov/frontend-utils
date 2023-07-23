@@ -8,7 +8,7 @@ export const Footer = observer(() => {
       <Divider />
       <Space h="md" />
       <Container>
-        <a href="/">
+        <a target="_blank" rel="noreferrer" href="https://github.com/nikitabelotelov/frontend-utils">
           <Text color="gray.6">
             Source code <ExternalLinkIcon />
           </Text>
